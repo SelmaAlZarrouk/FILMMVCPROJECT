@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\20055993SelmaAlZarrouk\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+658116440.index
+2171823816.index
+312563860.index
+3627983813.index
+3458073062.index
